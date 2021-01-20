@@ -2,7 +2,7 @@
   "profiles": {
     "Budgets": {
       "commandName": "Project",
-      "commandLineArgs": "Vovan"
+      "commandLineArgs": "Vovan Mike"
     }
   }
 }
