@@ -1,3 +1,12 @@
 ﻿using System;
 
-Console.WriteLine("Hello World!");
+namespace Budgets
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
