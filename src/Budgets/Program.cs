@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Budgets
+namespace KMA.ProgrammingInCSharp2021.Budgets
 {
     class Program
     {
