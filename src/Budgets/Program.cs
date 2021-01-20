@@ -6,7 +6,7 @@ namespace KMA.ProgrammingInCSharp2021.Budgets
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Vovan!");
+            Console.WriteLine("Hello " + args[0] + "!");
         }
     }
 }
