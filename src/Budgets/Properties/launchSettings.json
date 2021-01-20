@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Budgets": {
+      "commandName": "Project",
+      "commandLineArgs": "Vovan"
+    }
+  }
+}
