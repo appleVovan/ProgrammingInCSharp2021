@@ -6,6 +6,7 @@ namespace KMA.ProgrammingInCSharp2021.Budgets
     {
         static void Main(string[] args)
         {
+            float x;
             if (args.Length > 0)
             {
                 Console.WriteLine($"Hello, {args[0]}!");
