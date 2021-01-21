@@ -6,7 +6,7 @@ namespace KMA.ProgrammingInCSharp2021.Budgets
     {
         static void Main(string[] args)
         {
-            double x;
+            int x;
             x=34.1;
 
             if (args.Length > 0)
